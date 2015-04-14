@@ -1,2 +1,2 @@
-# hola-mundo
-mi primer repositorio
+# Paola Moreira
+Mi Curriculum Vitae
